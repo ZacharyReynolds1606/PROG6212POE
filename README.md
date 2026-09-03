@@ -5,3 +5,4 @@ ERD photo was added
 Given a heading for structure
 Structure was added in text format
 ERD for part 1 was finalised
+The API pdf was added
