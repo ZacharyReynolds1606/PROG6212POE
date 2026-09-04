@@ -15,3 +15,4 @@ Random names were added to actually fill in the database
 https://youtu.be/pPFJ6y5a_kU 
 https://www.geeksforgeeks.org/dbms/introduction-of-er-model/ reference for having a basic understanding of ERD's
 https://www.ibm.com/think/topics/api-endpoint reference for having a basic understanding of API's
+https://www.geeksforgeeks.org/sql/sql-tutorial/ reference for having a basic understanding of SQL
