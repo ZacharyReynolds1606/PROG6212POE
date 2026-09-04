@@ -12,3 +12,4 @@ The data was entered into the table
 SQL file was added
 Required data for the database was inserted
 Random names were added to actually fill in the database
+https://youtu.be/pPFJ6y5a_kU 
