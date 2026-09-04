@@ -9,3 +9,4 @@ The API pdf was added
 The API was given a title
 The table was made for the API
 The data was entered into the table
+SQL file was added
